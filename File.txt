@@ -1,1 +1,3 @@
 This is a new file in the local repo via GIT.
+2ndline added to theBranch of local repo GIT.
+3rd line added to the Branch of local GIT again. (2nd line is merged to master)4th line added to branch again for "git diff"
